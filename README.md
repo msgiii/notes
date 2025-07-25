@@ -6,8 +6,18 @@
 [![License](https://img.shields.io/badge/license-Apache%202-blue)](https://github.com/msgiii/notes)
 
 
+
 ## IDEs
 
-[idea for java developers](https://www.jetbrains.com/idea/)
+[Idea for java developers](https://www.jetbrains.com/idea/)
+[Pycharm for python developers](https://www.jetbrains.com/pycharm/)
+
+
+## Databases
+
+[MySQL](https://dev.mysql.com/downloads/mysql/)
+[DBeaver](https://dbeaver.io/download/)
+
+
 
 
