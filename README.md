@@ -9,14 +9,14 @@
 
 ## IDEs
 
-[Idea for java developers](https://www.jetbrains.com/idea/)
-[Pycharm for python developers](https://www.jetbrains.com/pycharm/)
+1. [Idea for java developers](https://www.jetbrains.com/idea/)
+2. [Pycharm for python developers](https://www.jetbrains.com/pycharm/)
 
 
 ## Databases
 
-[MySQL](https://dev.mysql.com/downloads/mysql/)
-[DBeaver](https://dbeaver.io/download/)
+1. [MySQL](https://dev.mysql.com/downloads/mysql/)
+2. [DBeaver](https://dbeaver.io/download/)
 
 
 
